@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="512" height="512">
+  <title>Dooze Project Logo</title>
+  <g fill="#d97706">
+    <!-- Left Pillar (Fondasi) -->
+    <path d="M6 6a3 3 0 0 1 3-3h1v18H9a3 3 0 0 1-3-3V6z" />
+    <!-- Right Dynamic Curve (Kreativitas) -->
+    <path d="M13 4h2c3.87 0 7 3.13 7 7s-3.13 7-7 7h-2v-4h2c1.66 0 3-1.34 3-3s-1.34-3-3-3h-2V4z" />
+  </g>
+</svg>
